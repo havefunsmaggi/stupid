@@ -1,0 +1,1389 @@
+drugs 
+ganja 
+weed
+ dope
+ hallucinogen
+ aphrodisiac
+ euphoriant
+ lsd
+ opiate
+ narcotic
+ dose
+ drugging
+ chemical
+ drugged
+ medicate
+ drugs
+ administer
+ do drugs
+ druggie
+ druggy
+ stupefy
+ substance
+ medicine
+ prescription
+ soporific
+ abortifacient
+ anodyne
+ painkiller
+	 placebo
+ sedative
+ analgesic
+ aspirin
+ depressant
+ mescaline
+ morphine
+ opium
+ peyote
+ proprietary
+ snort
+ soft drug
+ acid
+ addict
+ alkalating agent
+ allopurinol
+ amphetamine
+ analeptic
+ anticonvulsant
+ antiepileptic
+ antimalarial
+ antineoplastic antibiotic
+ antispasmodic
+ astringent
+ ataractic
+	 chloramphenicol
+ dilantin
+ diphenylhydantoin
+ diuretic
+ downer
+ hallucinogenic drug
+ hocus
+ hypnotic
+ medication
+ mepacrine
+ nepenthe
+ nsaid
+ pcp
+ pharmaceutical
+ psychedelic drug
+ psychodelic drug
+ relaxant
+ tetracycline
+ thalidomide
+ tranquilizer
+ vasodilator
+ withdrawal
+ aborticide
+ achromycin
+ alterative
+	 angel dust
+ antibiotic
+ antiemetic
+ antihistamine
+ antihypertensive
+ antiviral
+ anxiolytic
+ aureomycin
+ azt
+ bacitracin
+ base
+ carbomycin
+ chloroquine
+ chlorpromazine
+ cipro
+ ciprofloxacin
+ cocaine
+ cure
+ disulfiram
+ ecbolic
+ emmenagogue
+ generic
+ head
+ heroin
+ immunosuppressant
+ indomethacin
+ intoxicate
+ junkie
+ lysergic acid diethylamide
+ marijuana
+ melphalan
+ methaqualone
+ mycomycin
+ neomycin
+ nonsteroidal anti-inflammatory
+ nonsteroidal anti-inflammatory drug
+ overdose
+ pain pill
+ phencyclidine hydrochloride
+ physic
+ purgative
+ remedy
+ stimulant
+ stuff
+ styptic
+ sulfanilamide
+ tranquillizer
+ tyrocidin
+ tyrocidine
+ vasoconstrictor
+ viocin
+ viomycin
+ alkeran
+ amitriptyline
+ anaesthetic
+ anesthetic
+ antabuse
+ antagonist
+ antiarrhythmic
+ antibacterial
+ anticonvulsant drug
+ antidepressant
+ antidiabetic
+ antidiarrheal
+ antidiuretic
+ antiepileptic drug
+ antimetabolite
+ antineoplastic
+ antitussive
+ azathioprine
+ belladonna
+ bronchodilator
+ cannabis
+ captopril
+ carminative
+	 cataplasm
+ cathartic
+ chloral hydrate
+ chlorothiazide
+ clomiphene
+ curative
+ cytotoxic drug
+ decongestant
+ dependent
+ designer drug
+ diaphoretic
+ diazepam
+ doxorubicin
+ dramamine
+ drop
+ drug of abuse
+ emeside
+ emetic
+ ethical drug
+ ethosuximide
+ febrifuge
+ fix
+ free-base
+ ganja
+ gemonil
+	 hemlock
+ hit
+ hype
+ immunosuppressive drug
+ inject
+ ipecac
+ jalap
+ lovastatin
+ marihuana
+ mephenytoin
+ mesantoin
+ metharbital
+ methotrexate
+ methyldopa
+ metrazol
+ morphia
+ muscle relaxant
+ narcotize
+ novobiocin
+ oxytocic
+ paregoric
+ patent medicine
+ pentamethylenetetrazol
+ pentylenetetrazol
+ periwinkle plant derivative
+ pill
+ plaster
+ pot
+ poultice
+ prescription drug
+ psilocin
+ psilocybin
+ quaalude
+ quassia
+ refill
+ reserpine
+ smoke
+ soft
+ specific
+ street drug
+ sulfadiazine
+ sulfonamide
+ suppressant
+ synergist
+ thioguanine
+ tricyclic
+ tricyclic antidepressant
+ user
+ valerian
+ valium
+	 vancomycin
+ vomit
+ zarontin
+ aconite
+ actinomycin
+ acyclovir
+ aldomet
+ allopurinal
+ amiodarone
+ amphotericin
+ amrinone
+ anaesthetic agent
+ anesthetic agent
+ anti-inflammatory
+ antianxiety agent
+ antiarrhythmic drug
+ antiarrhythmic medication
+ antibacterial drug
+ antidiabetic drug
+ antidiarrheal drug
+ antidiuretic drug
+ antiemetic drug
+ antihypertensive drug
+ antimalarial drug
+ antimycin
+	 antiperiodic
+ antiphlogistic
+ antipsychotic
+ antipyretic
+ antiseptic
+ antispasmodic agent
+ antisyphilitic
+ apc
+ aperient
+ arsenical
+ arsphenamine
+ astringent drug
+ atabrine
+ ataraxic
+ atromid-s
+ azactam
+ aztreonam
+ barbitone
+ barbiturate
+ bhang
+ biological
+ blow
+ bromide
+ burned
+ burroughs
+	 butazolidin
+ capoten
+ cephaloridine
+ cephalosporin
+ chloromycetin
+ chlortetracycline
+ clofibrate
+ clomid
+ clomiphene citrate
+ clomipramine
+ cocaine addiction
+ control group
+ controlled substance
+ cordarone
+ cycloserine
+ demulcent
+ diabeta
+ dihydrostreptomycin
+ diuril
+ doxycycline
+ drixoral
+ ecstasy
+ elavil
+ emetrol
+ ephedrine
+ ergot
+ erythromycin
+ esidrix
+ expectorant
+ fertility drug
+ fluoxetine
+ fradicin
+ gage
+ gentamicin
+ glyburide
+ gramicidin
+ grass
+ habit
+ hard
+ hashish
+ heroin addict
+ heroin addiction
+ holagogue
+ hooked
+ hophead
+ hydrochlorothiazide
+ hydrodiuril
+ hydroxytetracycline
+ imuran
+ inocor
+	 intoxicant
+ isoproterenol
+ jag
+ junk
+ laxative
+ lenitive
+ lincomycin
+ lisinopril
+ main line
+ make
+ mary jane
+ maxzide
+ mdma
+ mecholyl
+ medicament
+ mefoxin
+ mercaptopurine
+ methacholine
+ methylenedioxymethamphetamine
+ mevacor
+ mexiletine
+ mexitil
+ mickey finn
+ micronase
+ mind-altering drug
+	 monoamine oxidase inhibitor
+ mydriatic
+ nauseant
+ over-the-counter drug
+ oxyphenbutazone
+ oxytetracycline
+ oxytetracycline hydrochloride
+ paraldehyde
+ parenteral
+ peddler
+ penicillin
+ phenylbutazone
+ phlegmagogue
+ poison
+ polymyxin
+ prescription medicien
+ preventive
+ primaquine
+ probenecid
+ prophylactic
+ propranolol
+ psychedelic
+ psychoactive drug
+ psychoactive substance
+ purge
+	 pusher
+ pyocyanase
+ pyocyanin
+ quinacrine
+ quinacrine hydrochloride
+ quinine
+ racket
+ restorative
+ roborant
+ sedative-hypnotic
+ sedative drug
+ sens
+ sess
+ shanghai
+ skunk
+ spasmolytic
+ spectinomycin
+ streptomycin
+ streptothricin
+ strung out
+ stupefacient
+ subtilin
+ sulamyd
+ sulfa
+ sulfacetamide
+ sulfamethazine
+ sulfamezathine
+ sulfapyridine
+ sulpha
+ sulphonal
+ sulphonamide
+ tandearil
+ tenoretic
+ terramycin
+ thorazine
+ tincture
+ topical
+ triad
+ tricyclic antidepressant drug
+ tyrothricin
+ upper
+ vancocin
+ vermicide
+ vermifuge
+ veronal
+ vibramycin
+ vomitive
+ weed
+ zestril
+ zidovudine
+	 zovirax
+ zyloprim
+ abirritant
+ abortion-inducing drug
+ acapulco gold
+ adam
+ adapin
+ adrenergic
+ adrenergic drug
+ agrypnotic
+ alcohol abuse
+ alcohol addiction
+ alcoholic abuse
+ alcoholism
+ alcoholism abuse
+ alexipyretic
+ alum
+ anacathartic
+ anaphrodisiac
+ angiogenesis inhibitor
+ anit-impotence drug
+ antarthritic
+ anthelminthic
+ anthelmintic
+ anti-inflammatory drug
+	 antibiotic drug
+ anticholinergic
+ antidepressant drug
+ antidote
+ antifebrile
+ antimonial
+ antineoplastic drug
+ antipsychotic drug
+ antiviral agent
+ antiviral drug
+ anxiolytic drug
+ appetite suppressant
+ ataractic agent
+ ataractic drug
+ atarax
+ atomic cocktail
+ attenuant
+ autacoid
+ azidothymidine
+ bactericide
+ bedrug
+ beta-adrenergic blocking agent
+ beta blocker
+ blocked
+ blocker
+	 botanical
+ bullet
+ buspar
+ buspirone
+ buy
+ caffein addiction
+ calcium blocker
+ calmative
+ camphorated tincture of opium
+ cancer drug
+ carafate
+ cardiac
+ catapres
+ catastaltic
+ chalybeate
+ chlorambucil
+ chlorpropamide
+ cimetidine
+ clean
+ clioquinol
+ clonidine
+ clot buster
+ cocain
+ cocaine addict
+ cocas
+ coke
+ consciousness-altering drug
+ convulsant
+ counterirritant
+ crank up
+ crash out
+ cuprimine
+ damiana
+ dependant
+ dependence
+ depressomotor
+ despiramine
+ detoxes
+ detoxify
+ diacetyl morphine
+ digitalis
+ dilator
+ diuretic drug
+ dope up
+ dopehead
+ dopey
+ doxepin
+ drag
+ drug-addicted
+ drug withdrawal
+	 drunkenness
+ dynamise
+ edronax
+ embrocation
+ errhine
+ estriol
+ fda
+ fixed-combination drug
+ galenical
+ general anaesthetic
+ guanethidine
+ haemagogue
+ haemostatic
+ hard drug
+ hash
+ helminthic
+ hemagogue
+ hematic
+ hematonic
+ histamine blocker
+ horse
+ hydragogue
+ hydrotic
+ hydroxyzine
+ hydroxyzine hydrochloride
+	 hypodermic
+ imavate
+ imipramine
+ immune suppressant drug
+ immunogen
+ inhalant
+ intolerance
+ iodochlorhydroxyquin
+ isordil
+ isosorbide
+ isuprel
+ junky
+ kaif
+ kef
+ kemadrin
+ kif
+ knockout drops
+ liquefacient
+ local anaesthetic
+ lomotil
+ macrodantin
+ mainline
+ man
+ mandelamine
+ mannitol
+	 maoi
+ mecamylamine
+ medicinal drug
+ methenamine
+ minipress
+ miticide
+ mydriatic drug
+ nefazodone
+ nervine
+ nicotine addiction
+ nitrazepam
+ nitrofurantoin
+ noxiptiline
+ nux vomica
+ od
+ on
+ opium addict
+ opium taker
+ oral
+ osmitrol
+ over-the-counter medicine
+ oxytocic drug
+ papaverine
+ parturifacient
+ penicillamine
+ pentobarbitone
+ pharmaco-
+ pharmacopolist
+ physagogue
+ potion
+ prazosin
+ prescription medicine
+ procarbazine
+ procyclidine
+ prozac
+ psychotropic
+ pulmonic
+ radiopharmaceutical
+ rau-sed
+ reboxetine
+ resolvent
+ rubefacient
+ sandril
+ scabicide
+ scag
+ sedative-hypnotic drug
+ sensitise
+ sensitivity
+ serpasil
+ serzone
+	 shit
+ sialagogue
+ sinequan
+ smack
+ snow
+ soothing syrup
+ sorbefacient
+ spermicide
+ stimulant drug
+ stimulus
+ stomachic
+ strophanthus
+ strung-out
+ sucralfate
+ sudorific
+ sulfa drug
+ sulfonylurea
+ suppository
+ suppurative
+ sympatholytic
+ sympathomimetic
+ tagamet
+ take a hit
+ tbi
+ tetanic
+	 thiotepa
+ thrombolytic
+ thrombolytic agent
+ tijuana cartel
+ tolazamide
+ tolinase
+ tonic
+ tracer
+ tranquilliser
+ tyrosine kinase inhibitor
+ vagotropic
+ vasodilative
+ vasoinhibitor
+ vasomotor
+ venipuncture
+ virility drug
+ vistaril
+ withdrawer
+ wonder drug
+ trip
+ assay
+ high
+ methadone
+ shoot
+ essence
+	 addiction
+ adjuvant
+ aflaxen
+ aleve
+ anaprox
+ bitterwood
+ come
+ crystal
+ cyclazocine
+ dea
+ ethical
+ fluidextract
+ homeopathy
+ idiosyncrasy
+ ketoprofen
+ laetrile
+ meperidine
+ naproxen sodium
+ reaction
+ scopolamine
+ sleeping pill
+ spaced-out
+ tachyphylaxis
+ tolerate
+ acetazolamide
+ acular
+ aftereffect
+ aloe
+ aminobutene
+ ansaid
+ aromatic
+ bummer
+ cataflam
+ cephalosporin     ceporin
+ clinoril
+ clozapine
+ cold turkey
+ crash
+ cyclosporine
+ darvon
+ dauerschlaf
+ daypro
+ decoction
+ diclofenac potassium
+ diclofenac sodium
+ dopamine
+ dosage
+ drug addiction
+ drug enforcement administration
+ effect
+	 electuary
+ elixir
+ emulgent
+ ethchlorvynol
+ etodolac
+ exhaust
+ extract
+ feldene
+ fenoprofen calcium
+ flurbiprofen
+ freak
+ generic drug
+ habituation
+ haloperidol
+ hyoscine
+ hypersensitive
+ ibuprofen
+ indocin
+ induce
+ infusion
+ jambolan
+ ketorolac tromethamine
+ kick
+ lithium carbonate
+ load
+	 lodine
+ mefenamic acid
+ mefloquine
+ mellow
+ methamphetamine
+ monkey
+ nabumetone
+ nalfon
+ naprosyn
+ naproxen
+ narcosynthesis
+ narcotherapy
+ neostigmine
+ neuroleptic
+ officinal
+ orudis
+ oruvail
+ oxaprozin
+ oxazepam
+ palliative
+ pentamidine
+ pethidine
+ pharmacopoeia
+ pharmacy
+ phenylpropanolamine
+	 phenytoin
+ piroxicam
+ placebo effect
+ ponstel
+ popper
+ potent
+ potentiate
+ prednisone
+ prescribe
+ purgatory
+ quinidine
+ reactor
+ relafen
+ score
+ sedation
+ sensitize
+ side effect
+ skin-pop
+ sleeping draught
+ speed
+ sulindac
+ timothy leary
+ tolectin
+ tolerance
+ tolerant
+ tolmetin sodium
+ toradol
+ truth drug
+ truth serum
+ unit
+ viagra
+ voltaren
+ weight
+  (drug culture)
+ abbott axsym
+ abortion pill
+ absinthe
+ abuse
+ ace inhibitor
+ acetum
+ acetylsalicylic acid
+ acid rock
+ actifed
+ action
+ active placebo
+ active transport
+ addicted
+ additive
+ adiaphoresis
+ adiaphorous
+	 adrenalin
+ adrenochrome
+ advil
+ aggravate
+ agonist
+ agranulocytosis
+ agranulosis
+ alexander shulgin
+ alexandre de merode
+ alkaloid
+ alleviate
+ aloes
+ alpha methyl dopa
+ amantadine
+ amitriptyline hydrochloride
+ ampoule
+ ampul
+ ampule
+ anaphrodisia
+ anaphylaxis
+ anastrozole
+ angiotensin converting enzyme inhibitor
+ announcement
+ anorectic
+ anorexigenic
+	 antacid
+ antianginal
+ anticancer
+ anticholinesterase
+ anticoagulation
+ antidiarrhoeal
+ antiprotozoal
+ antiprotozoal drug
+ apresoline
+ asparaginase
+ asthma inhaler
+ ataraxy     ataraxia
+ atorvastatin
+ autoinjector
+ aversion therapy
+ avonex
+ bad trip
+ baycol
+ bayer
+ benadryl
+ bendopa
+ benignly
+ benzedrine
+ benztropine
+ bespice
+	 beta
+ bio-assay
+ bioavailability
+ bja
+ blur
+ brand-name drug
+ breast reconstruction
+ brocadopa
+ bufotenine
+ bureau of justice assistance
+ burnout
+ butyl nitrite
+ buy-and-bust operation
+ buzz
+ calabar bean
+ calan
+ cali cartel
+ capsule
+ carbamazepine
+ cardiac glycoside
+ cardiomyopathy
+ cardioversion
+ carlos lehder
+ cartel de cali
+ cerivastatin
+ cinchona
+ clinical test
+ clinical trial
+ clozaril
+ club des hashischins
+ colchine
+ colombian
+ coma
+ comedown
+ commission on narcotic drugs
+ common foxglove
+ confection
+ confiture
+ contraceptive
+ contraindicate
+ contraindication
+ controlled substances act
+ cook up
+ correlate
+ correlation
+ cox- inhibitor
+ crisis intervention
+ cross-tolerance
+ culture
+ curare or curari
+	 cytoprotectant
+ dapsone
+ darbepoetin
+ daricon
+ dccp
+ ddc
+ ddi
+ debilitant
+ decadron
+ deck
+ define
+ deltasone
+ delusive
+ demerol
+ demon
+ derealization
+ derry
+ desyrel
+ detox
+ dexamethasone
+ dexamethasone intensol
+ dexone
+ diacetylmorphine
+ diclofenac
+ dicoumarol
+	 dicumarol
+ diethylcarbamazine
+ diethylstilbestrol
+ diflunisal
+ digitalis purpurea
+ dimetapp
+ dimethyltryptamine
+ disorientation
+ diuresis
+ dolibid
+ dolophine hydrochloride
+ dominate
+ dopastat
+ drug-resistance
+ drug cartel
+ drug culture
+ drug enforcement agency
+ drug mix
+ drug overdose
+ drug paraphernalia
+ drug tolerance
+ dry out
+ dxm
+ dylar
+ dynamize
+	 ease
+ elspar
+ emiction
+ empirin
+ encainide
+ enkaid
+ eosinophilia
+ eponym
+ erythema multiforme
+ eskalith
+ essential
+ estradiol
+ excipient
+ excitant
+ expectorate
+ experiment
+ experimental
+ fairy bell
+ fenoprofen
+ feosol
+ fergon
+ finger-flower
+ finger-root
+ fixer
+ flashback
+ flower power
+ floxuridine
+ fluphenazine
+ fluvastatin
+ fraudulent scheme
+ freak out
+ gamma-hydroxybutyrate
+ gamma hydroxybutyrate
+ gateway drug
+ get
+ get off
+ ghb
+ gia
+ glipzide
+ glucophage
+ glucotrol
+ granulocytopenia
+ guanabenz
+ h antagonist
+ habit-forming
+ half-life
+ halfway house
+ hallucinogenic
+ hangover
+ hash oil
+	 head shop
+ hedonism resorts
+ hemp
+ henbane
+ hexadrol
+ hidrosis
+ hold
+ hook
+ hop
+ hydralazine
+ hydrocyanic acid
+ hydromorphone
+ hydroxychloroquine
+ hyped up
+ hypo
+ hypodermic injection
+ hytrin
+ illegal drug trade
+ illegitimate enterprise
+ imovane
+ indication
+ inflation therapy
+ inh
+ inhibition
+ interferon beta-a
+	 intramuscularly
+ intravenous drug
+ intropin
+ iontophoresis
+ iproclozid
+ ismael zambada-garcia
+ isobutyl nitrite
+ isobutylphenyl propionic acid
+ isocarboxazid
+ isoniazid
+ isoptin
+ itraconazole
+ ivermectin
+ jamaica quassia
+ jambul
+ janis joplin
+ jerome horowitz
+ joplin
+ kairin
+ kaopectate
+ kavalactone
+ ketorolac
+ ketracel white
+ key
+ krameria
+	 l-dopa
+ labetalol
+ labetalol hydrochloride
+ lamisil
+ lamotrigine
+ land
+ larium
+ larodopa
+ lescol
+ lethal dose
+ levallorphan
+ levodopa
+ librium
+ lipitor
+ liposome
+ liquid pred
+ lithane
+ lithonate
+ live
+ local anesthetic
+ lomustine
+ loperamide
+ lorfan
+ lsa
+ magic bullet
+ maladministration
+ malaysian
+ maleate
+ maprotiline
+ marc
+ masculinize
+ massive
+ me-too
+ meclofenamate
+ meclofenamate sodium
+ meclomen
+ medellin cartel
+ medell�n cartel
+ medicaid
+ medical marijuana
+ mefloquine hydrochloride
+ menstruum
+ meperidine hydrochloride
+ mephaquine
+ mescal
+ mescalin
+ metformin
+ methadon
+ methadone hydrochloride
+ methcathinone
+	 methicillin
+ meticorten
+ metopon
+ metronidazole
+ microencapsulation
+ mifepristone
+ miotic
+ mithracin
+ mithramycin
+ mitomycin
+ mld
+ moban
+ molindone
+ motrin
+ multiplex
+ mutamycin
+ mydriasis
+ naive
+ naloxone
+ naqua
+ narc
+ narco-state
+ narcoanalysis
+ narcokleptocracy
+ narcoleptic
+	 narconon
+ narcoterrorism
+ narcs
+ national drug code
+ nauseous
+ nda
+ needle sharing
+ neosporin
+ neuropharmacology
+ nialamide
+ nickel
+ nickel note
+ nnrti
+ nonsteroidal
+ nonuser
+ normodyne
+ nortriptyline
+ notezine
+ novocaine
+ nrti
+ numb
+ nuprin
+ nydrazid
+ obtund
+ official
+	 oncovin
+ open
+ opioid analgesic
+ optimal
+ oradexon
+ orally
+ orasone
+ organoleptic
+ orinase
+ orudis kt
+ osco
+ osiel cardenas
+ otc
+ out
+ oxyphencyclimine
+ pablo escobar
+ paclitaxel
+ pagad
+ paludal
+ pamelor
+ paracetamol
+ parenterally
+ patent
+ pentaquine
+ pentazocine
+ pentobarbitone sodium
+ pentoxifylline
+ people against gangsterism and drugs
+ pep
+ pep pill
+ percolate
+ percolation
+ percolator
+ pharmacology
+ pharmacon
+ phase i
+ phase i clinical trial
+ phase iii
+ phase iii clinical trial
+ phase iv
+ phase iv clinical trials
+ phencyclidine
+ phenelzine
+ phenobarbitone
+ phentolamine
+ phial
+ philter
+ phosphodiesterase inhibitor
+ pi
+ picrasma excelsa
+	 picrasma excelsum
+ picrotoxin
+ placidyl
+ plagued
+ plaquenil
+ podophyllum
+ pop
+ positive
+ pravachol
+ pravastatin
+ preclinical phase
+ preclinical test
+ preclinical trial
+ prednisolone
+ presentation
+ prinivil
+ prochlorperazine
+ progestational
+ promethazine
+ propoxyphene
+ propoxyphene hydrochloride
+ proprietary drug
+ propylthiouracil
+ prostigmin
+ protease inhibitor
+	 psychedelic rock
+ psychoactive
+ psychopharmacology
+ purinethol
+ quetiapine
+ quinidex
+ quinora
+ ramon arellano-felix
+ rational drug design
+ recite
+ recreational drug
+ recreational drug use
+ retard
+ retrovir
+ reverse transcriptase inhibitor
+ ribavirin
+ rifadin
+ rifampin
+ rimactane
+ route
+ route of administration
+ ru 
+ safflower
+ scandal
+ sedate
+	 sedated
+ selective-serotonin reuptake inhibitor
+ sell
+ senna
+ serax
+ sextasy
+ sharpen
+ shelf life
+ shoot up
+ shooting gallery
+ shoppers drug mart
+ shot
+ signature
+ sildenafil
+ sleeping capsule
+ sleeping tablet
+ smash
+ smashed
+ social issue
+ sopor
+ space cadet
+ spaced out
+ spacey
+ spacy
+ sporanox
+ ssri
+ stabilize
+ stimulate
+ stoned
+ stramonium
+ street name
+ strength
+ succedaneum
+ sudor
+ sulfinpyrazone
+ sulphadiazine
+ surmontil
+ sweat
+ synanon healing
+ synchrony
+ synthetic heroin
+ tacrolimus
+ tadalafil
+ taeniacide
+ taeniafuge
+ talwin
+ taxol
+ terazosin
+ terbinafine
+ terbutaline
+ tetracyclic antidepressant
+ tetrahydrogestrinone
+ the rose (movie)
+ theophylline
+ therapeutic index
+ therapy
+ thiabendazole
+ thiopentone sodium
+ tnx-
+ tocainide
+ tolbutamide
+ tonga
+ tonocard
+ topiramate
+ torodal
+ torrefy
+ toxicant
+ track
+ traffic
+ traffic ( movie)
+ trandate
+ tranquillize
+ transit zone
+ tranylcypromine
+ trazodone
+ trazodone hydrochloride
+ trental
+ trevor goddard
+ trial
+ triamcinolone
+ trichlormethiazide
+ trifluoperazine
+ trimipramine
+ triple frontier
+ tripper
+ turpeth
+ unofficial
+ untested
+ vasomax
+ velban
+ verapamil
+ verdigris
+ vial
+ vinblastine
+ vincristine
+ wear
+ white plague
+ william burroughs
+ william s burroughs
+ william seward burroughs
+ withdrawal symptom
+ wytensin
+ xenobiotic
+ yet
+ yoke
+ zdv
+ zolpidem
+ zonk
+ zyban
+   
+
